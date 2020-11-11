@@ -7,9 +7,9 @@ Learn Guitar Major/Minor Scales/Chords. Create Your Own Music Using Your Compute
                       Z,  X,  C,  V,  B,  N,  M
 
 ### Notes Of A Scale Keys::
-  ### String 6(E)::           Q  W  E  R  T  Y  U  I  O   P      {   }     |
-  ### String 5(A)::          Esc F1 F2 F3 F4 F5 F6 F7 F8 Insert Home PgUp NumLock
-  ### String 4(D)::           `  1  2  3  4  5  6  7  8   9      0    -     =  
+                Q  W  E  R  T  Y  U  I  O   P      {   }     |
+               Esc F1 F2 F3 F4 F5 F6 F7 F8 Insert Home PgUp NumLock
+             `  1  2  3  4  5  6  7  8   9   0     -     =    -
   
                         
 ## Requirements

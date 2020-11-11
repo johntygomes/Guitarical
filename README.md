@@ -7,9 +7,17 @@ Learn Guitar Major/Minor Scales/Chords. Create Your Own Music Using Your Compute
                       Z,  X,  C,  V,  B,  N,  M
 
 ### Notes Of A Scale Keys::
-                Q  W  E  R  T  Y  U  I  O   P      {   }     |
-               Esc F1 F2 F3 F4 F5 F6 F7 F8 Insert Home PgUp NumLock
-             `  1  2  3  4  5  6  7  8   9   0     -     =    -
+    String 6(E)            Q  W  E  R  T  Y  U  I  O   P      {   }     |
+                
+    String 5(A)           Esc F1 F2 F3 F4 F5 F6 F7 F8 Insert Home PgUp NumLock
+               
+    String 4(D)            `  1  2  3  4  5  6  7  8   9   0   -   =   Backspace
+    
+    String 3(G)            q  w  e  r  t  y  u  i  o   p   [   ]   \
+    
+    String 2(B)            a  s  d  f  g  h  j  k  l   ;   ' Enter Delete End PgDn
+    
+    String 1(E)            z  x  c  v  b  n  m  ,  .   /   Arrow_Left Arrow_Down  Arrow_Right
   
                         
 ## Requirements
@@ -24,11 +32,11 @@ Learn Guitar Major/Minor Scales/Chords. Create Your Own Music Using Your Compute
 5. Understand How To Build Chords.
 6. Understand Chord Patterns And Progressions.
 
-[Pianical Windows Application(.exe file)](https://drive.google.com/file/d/19St_YspY8KqPLPgyydqqhMfeay2Jp1yR/view?usp=sharing)
+[Guitarical Windows Application(.exe file)](https://drive.google.com/file/d/1k5huvF4G9z8mvqucEDSu_sdcmaw3Odc_/view?usp=sharing)
 
-[Chords And Jamming Example Video](https://www.youtube.com/watch?v=B0TjbzHoWek)
+[Tutorial Example](https://www.youtube.com/watch?v=XMMXVphkpnI)
 
-[On My Way Chords Pianical](https://www.youtube.com/watch?v=z89nB4Fn2t8)
+[On My Way Chords Guitarical](https://www.youtube.com/watch?v=N-oEkUYmWQ4)
 
 ## Developer Contact(Johnty Gomes)::
 [Whatsapp](http://api.whatsapp.com/send?phone=+919773211427)
